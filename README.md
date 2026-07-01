@@ -1,4 +1,2 @@
-# global_warming_project
-Wild Code School project / 2020
-
-The objective of this project was to explore open data in order to study the climate change and its consequences. The project has been made with python (mostly numpy, pandas, matplotlib, seaborn and plotly).
+# Training Project (Wild Code School, 2020): Global Warming
+This project aimed to leverage open data sources in order to investigate climate change and its associated impacts. It was developed using the Python programming language, relying on the NumPy, Pandas, Matplotlib, Seaborn, and Plotly libraries.
